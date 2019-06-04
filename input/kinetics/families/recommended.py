@@ -80,15 +80,15 @@ surface = {
     'Surface_Adsorption_Single',
     'Surface_Adsorption_vdW',
     'Surface_Adsorption_Dissociative',
-#    'Surface_Dissociation',
+    'Surface_Dissociation',
     'Surface_Abstraction',
     #'Surface_Adsorption_Double'
     #'Surface_Adsorption_Bidentate',
     #'Surface_Dissociation_vdW',
-    'Surface_Bidentate_Dissociation',
-    'Surface_DoubleBond_to_Bidentate',
+    ##'Surface_Bidentate_Dissociation',
+    ##'Surface_DoubleBond_to_Bidentate',
     #'Surface_PiBond_to_DiSigma',
-#    'Surface_DiSigma_to_PiBond',
+#   ## 'Surface_DiSigma_to_PiBond',
 }
 
 # Surface chemistry families that are under development and not yet working well.
