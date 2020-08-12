@@ -89,7 +89,7 @@ surface = {
     'Surface_DoubleBond_to_Bidentate',
     #'Surface_PiBond_to_DiSigma',
     'Surface_DiSigma_to_PiBond',
-    #'Surface_vdW_to_Bidentate',
+    'Surface_vdW_to_Bidentate',
 }
 
 # Surface chemistry families that are under development and not yet working well.

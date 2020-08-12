@@ -33,7 +33,7 @@ entry(
 """
 1 *1 R!H  u0 {2,[D,T]} 
 2 *2 R!H  u0 {1,[D,T]}
-3 *3 X   u0 
+3 *3 Xv   u0 
 """,
     kinetics = None,
 )
